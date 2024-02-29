@@ -1,0 +1,7 @@
+#Questions and Answers
+#Text starting with a hashtag is a comment.
+#Text before a percentage symbol is a question.
+#Text after a percentage symbol is an answer.
+
+How do I create?%Do this and that
+How this happen?%I don't know
